@@ -1,2 +1,2 @@
 # genesis-network
-This is a repository for our capstone project: a blockchain-based medical record system using Hyperledger Fabric
+This is a repository for our capstone project named "Genesis: A Blockchain-based Medical Record System" using Hyperledger Fabric
